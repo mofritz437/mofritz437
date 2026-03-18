@@ -1,6 +1,6 @@
 ## Hi there, I'm Moritz 
 I am a motorcycle rider, rust player and sometimes solo dev.
-<img scr="motorcycle gif.gif">
+<img width ="40px" scr="motorcycle GIF.gif">
 
 
 <!--
