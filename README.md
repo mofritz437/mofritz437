@@ -4,6 +4,7 @@ I have a nice and grey cat, his name is Shiner.
 
 ### My Motorcycles 🏍️
 - Beta RR 125 2025 4-Stroke
+- Beta EVO 300 2-Stroke
 
 ### Coding Languages 💻
 - HTML
