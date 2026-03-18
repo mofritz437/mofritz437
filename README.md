@@ -4,5 +4,5 @@ I am a motorcycle rider, rust player and sometimes solo dev.
 
 
 <!--
-zuzutczzrxz5jzzrtrczcfrccurxi6rx
+zuzutczzrxz5jzzrtrczcfrcxi6rx
 -->
